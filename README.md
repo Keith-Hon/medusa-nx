@@ -4,7 +4,7 @@ This project uses git submodules of
 
 https://github.com/Keith-Hon/medusa-nx-admin
 
-https://github.com/Keith-Hon/medusa-nx-storefront
+https://github.com/Keith-Hon/medusa-nx-storefront-next
 
 ------
 
