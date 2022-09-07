@@ -2,5 +2,7 @@ tasks:
   - init: |
       export ROOTDIR=$(pwd)
       cd apps/backend && npm install && npm run start
+  - command:      
       cd $ROOTDIR && cd apps/storefront && yarn install && yarn dev
+  - command:            
       cd $ROOTDIR && cd apps/admin && yarn install && yarn start
