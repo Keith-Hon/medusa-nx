@@ -1,0 +1,20 @@
+{
+    "editor.formatOnSave": true,
+    "remote.SSH.defaultForwardedPorts": [
+        {
+            "localPort": 9000,
+            "name": "backend",
+            "remotePort": 9000
+        },
+        {
+            "localPort": 7000,
+            "name": "admin",
+            "remotePort": 7000
+        },
+        {
+            "localPort": 8000,
+            "name": "storefront",
+            "remotePort": 8000
+        }
+    ]
+}
