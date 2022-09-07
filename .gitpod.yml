@@ -1,8 +1,10 @@
 tasks:
   - init: |
       export ROOTDIR=$(pwd)
+      npm install -g nx
+      npm install -g @medusajs/medusa-cli
       cd apps/backend && npm install && npm run start
-  - command:      
+  - command:
       cd apps/storefront && yarn install --mutex network:31999 && yarn dev
   - command:
       cd apps/admin && yarn install --mutex network:31999 && yarn start
