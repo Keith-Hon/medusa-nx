@@ -1,5 +1,13 @@
 # medusa-nx
 
+This project uses git submodules of 
+
+https://github.com/Keith-Hon/medusa-nx-admin
+
+https://github.com/Keith-Hon/medusa-nx-storefront
+
+------
+
 Instructions:
 
 1. Run the workspace in gitpod container
