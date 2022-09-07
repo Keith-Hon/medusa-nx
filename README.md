@@ -20,5 +20,6 @@ Admin is running at port 7000
 Admin Login:
 
 email: admin@medusa-test.com
+
 password: supersecret
 
