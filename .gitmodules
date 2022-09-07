@@ -1,6 +1,6 @@
 [submodule "apps/storefront"]
 	path = apps/storefront
-	url = https://github.com/medusajs/nextjs-starter-medusa.git
+	url = https://github.com/Keith-Hon/medusa-nx-storefront-next.git
 [submodule "apps/admin"]
 	path = apps/admin
-	url = https://github.com/medusajs/admin.git
+	url = https://github.com/Keith-Hon/medusa-nx-admin.git
