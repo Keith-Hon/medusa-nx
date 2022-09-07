@@ -1,3 +1,19 @@
 # medusa-nx
 
+Instructions:
+
+1. Run the workspace in gitpod container
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Keith-Hon/medusa-nx)
+
+2. Open it in VS Code locally
+
+3. Done
+Backend is running at port 9000
+Storefront is running at port 8000
+Admin is running at port 7000
+
+Admin Login:
+email: admin@medusa-test.com
+password: supersecret
+
