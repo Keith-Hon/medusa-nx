@@ -1,1 +1,4 @@
-image: gitpod/workspace-postgresql:2022-06-09-18-13-52
+tasks:
+  - init: |
+      export ROOTDIR=$(pwd)
+      cd apps/backend && npm install && npm run start
