@@ -8,7 +8,7 @@ Instructions:
 
 2. Open it in VS Code locally
 
-3. Done
+3. No step 3
 
 Backend is running at port 9000
 
