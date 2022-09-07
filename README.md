@@ -9,6 +9,7 @@ Instructions:
 2. Open it in VS Code locally
 
 3. Done
+
 Backend is running at port 9000
 Storefront is running at port 8000
 Admin is running at port 7000
